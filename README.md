@@ -24,7 +24,7 @@ Unity package for simple multiplayer games.
     * Ensure `com.moonleaf` is part of `scopes`.
   * Add `com.moonleaf.udpnetwork.unity` to `dependencies`, stating the latest version.
 
-  A minimal example ends up looking like this. Please note that the version `X.Y.Z` stated here is to be replaced with [the latest released version][Latest-Release] which is currently [![Release][Version-Release]][Releases].
+  A minimal example ends up looking like this. Please note that the version `X.Y.Z` stated here is to be replaced with ![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/EligijusK/UDPNetwork?include_prereleases&label=version).
   ```json
   {
     "scopedRegistries": [
