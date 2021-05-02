@@ -6,7 +6,7 @@ Unity package for simple multiplayer games.
 
 > You may skip this step if you already have a Unity project to import the package into.
 
-* Create a new project in the Unity software version `2018.3.10f1` (or above) using `3D Template` or open an existing project.
+* Create a new project in the Unity software version `2020.3.4f1` (or above) using `3D Template` or open an existing project.
 
 ### Step 2: Configuring the Unity project
 
