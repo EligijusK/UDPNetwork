@@ -1,0 +1,39 @@
+{
+    "name": "com.moonleaf.udpnetwork.unity",
+    "displayName": "UDPNetwork Unity",
+    "description": "A Collection of network prefabs and tools",
+    "version": "0.1.1",
+    "unity": "2020.1",
+    "unityRelease": "10f1",
+    "keywords": [
+        "udp",
+        "network",
+        "networking",
+        "multiplayer",
+        "framework"
+    ],
+    "homepage": "https://github.com/EligijusK/UDPServer",
+    "bugs": {
+        "url": "https://github.com/EligijusK/UDPServer/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "ssh://git@github.com/EligijusK/UDPServer.git"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Eligijus Kiudy",
+        "email": "eligijus@moonleafstudio.com",
+        "url": "https://github.com/EligijusK"
+    },
+    "files": [
+        "*.md",
+        "*.meta",
+        "*.asmdef",
+        "*.xml",
+        "Documentation",
+        "Runtime",
+        "Editor",
+        "docfx.json"
+    ]
+}
