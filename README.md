@@ -19,7 +19,7 @@ Unity package for simple multiplayer games.
 ### Step 3: Adding the package to the Unity project manifest
 
 * Navigate to the `Packages` directory of your project.
-* Adjust the [project manifest file][Project-Manifest] `manifest.json` in a text editor.
+* Adjust the UnityProject/Packages `manifest.json` in a text editor.
   * Ensure `https://registry.npmjs.org/` is part of `scopedRegistries`.
     * Ensure `com.moonleaf` is part of `scopes`.
   * Add `com.moonleaf.udpnetwork.unity` to `dependencies`, stating the latest version.
